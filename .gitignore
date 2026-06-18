@@ -1,0 +1,23 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Build folders
+build/
+build-*/
+cmake-build-debug/
+cmake-build-release/
+Debug/
+Release/
+
+# C++
+*.o
+*.obj
+*.exe
+
+# Database files
+*.db
+
+# macOS
+.DS_Store
